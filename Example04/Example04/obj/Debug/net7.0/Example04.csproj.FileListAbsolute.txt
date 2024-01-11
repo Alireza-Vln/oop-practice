@@ -1,0 +1,14 @@
+C:\Users\welldone\Desktop\Alireza\OOP\Example04\Example04\bin\Debug\net7.0\Example04.exe
+C:\Users\welldone\Desktop\Alireza\OOP\Example04\Example04\bin\Debug\net7.0\Example04.deps.json
+C:\Users\welldone\Desktop\Alireza\OOP\Example04\Example04\bin\Debug\net7.0\Example04.runtimeconfig.json
+C:\Users\welldone\Desktop\Alireza\OOP\Example04\Example04\bin\Debug\net7.0\Example04.dll
+C:\Users\welldone\Desktop\Alireza\OOP\Example04\Example04\bin\Debug\net7.0\Example04.pdb
+C:\Users\welldone\Desktop\Alireza\OOP\Example04\Example04\obj\Debug\net7.0\Example04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welldone\Desktop\Alireza\OOP\Example04\Example04\obj\Debug\net7.0\Example04.AssemblyInfoInputs.cache
+C:\Users\welldone\Desktop\Alireza\OOP\Example04\Example04\obj\Debug\net7.0\Example04.AssemblyInfo.cs
+C:\Users\welldone\Desktop\Alireza\OOP\Example04\Example04\obj\Debug\net7.0\Example04.csproj.CoreCompileInputs.cache
+C:\Users\welldone\Desktop\Alireza\OOP\Example04\Example04\obj\Debug\net7.0\Example04.dll
+C:\Users\welldone\Desktop\Alireza\OOP\Example04\Example04\obj\Debug\net7.0\refint\Example04.dll
+C:\Users\welldone\Desktop\Alireza\OOP\Example04\Example04\obj\Debug\net7.0\Example04.pdb
+C:\Users\welldone\Desktop\Alireza\OOP\Example04\Example04\obj\Debug\net7.0\Example04.genruntimeconfig.cache
+C:\Users\welldone\Desktop\Alireza\OOP\Example04\Example04\obj\Debug\net7.0\ref\Example04.dll

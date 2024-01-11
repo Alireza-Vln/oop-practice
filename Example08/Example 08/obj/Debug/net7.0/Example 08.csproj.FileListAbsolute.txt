@@ -1,0 +1,28 @@
+C:\Users\welldone\Desktop\Alireza\OOP\Example 08\Example 08\obj\Debug\net7.0\Example 08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welldone\Desktop\Alireza\OOP\Example 08\Example 08\obj\Debug\net7.0\Example 08.AssemblyInfoInputs.cache
+C:\Users\welldone\Desktop\Alireza\OOP\Example 08\Example 08\obj\Debug\net7.0\Example 08.AssemblyInfo.cs
+C:\Users\welldone\Desktop\Alireza\OOP\Example 08\Example 08\obj\Debug\net7.0\Example 08.csproj.CoreCompileInputs.cache
+C:\Users\welldone\Desktop\Alireza\OOP\Example 08\Example 08\bin\Debug\net7.0\Example 08.exe
+C:\Users\welldone\Desktop\Alireza\OOP\Example 08\Example 08\bin\Debug\net7.0\Example 08.deps.json
+C:\Users\welldone\Desktop\Alireza\OOP\Example 08\Example 08\bin\Debug\net7.0\Example 08.runtimeconfig.json
+C:\Users\welldone\Desktop\Alireza\OOP\Example 08\Example 08\bin\Debug\net7.0\Example 08.dll
+C:\Users\welldone\Desktop\Alireza\OOP\Example 08\Example 08\bin\Debug\net7.0\Example 08.pdb
+C:\Users\welldone\Desktop\Alireza\OOP\Example 08\Example 08\obj\Debug\net7.0\Example 08.dll
+C:\Users\welldone\Desktop\Alireza\OOP\Example 08\Example 08\obj\Debug\net7.0\refint\Example 08.dll
+C:\Users\welldone\Desktop\Alireza\OOP\Example 08\Example 08\obj\Debug\net7.0\Example 08.pdb
+C:\Users\welldone\Desktop\Alireza\OOP\Example 08\Example 08\obj\Debug\net7.0\Example 08.genruntimeconfig.cache
+C:\Users\welldone\Desktop\Alireza\OOP\Example 08\Example 08\obj\Debug\net7.0\ref\Example 08.dll
+C:\Users\welldone\Desktop\Alireza\OOP\Example08\Example 08\bin\Debug\net7.0\Example 08.exe
+C:\Users\welldone\Desktop\Alireza\OOP\Example08\Example 08\bin\Debug\net7.0\Example 08.deps.json
+C:\Users\welldone\Desktop\Alireza\OOP\Example08\Example 08\bin\Debug\net7.0\Example 08.runtimeconfig.json
+C:\Users\welldone\Desktop\Alireza\OOP\Example08\Example 08\bin\Debug\net7.0\Example 08.dll
+C:\Users\welldone\Desktop\Alireza\OOP\Example08\Example 08\bin\Debug\net7.0\Example 08.pdb
+C:\Users\welldone\Desktop\Alireza\OOP\Example08\Example 08\obj\Debug\net7.0\Example 08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welldone\Desktop\Alireza\OOP\Example08\Example 08\obj\Debug\net7.0\Example 08.AssemblyInfoInputs.cache
+C:\Users\welldone\Desktop\Alireza\OOP\Example08\Example 08\obj\Debug\net7.0\Example 08.AssemblyInfo.cs
+C:\Users\welldone\Desktop\Alireza\OOP\Example08\Example 08\obj\Debug\net7.0\Example 08.csproj.CoreCompileInputs.cache
+C:\Users\welldone\Desktop\Alireza\OOP\Example08\Example 08\obj\Debug\net7.0\Example 08.dll
+C:\Users\welldone\Desktop\Alireza\OOP\Example08\Example 08\obj\Debug\net7.0\refint\Example 08.dll
+C:\Users\welldone\Desktop\Alireza\OOP\Example08\Example 08\obj\Debug\net7.0\Example 08.pdb
+C:\Users\welldone\Desktop\Alireza\OOP\Example08\Example 08\obj\Debug\net7.0\Example 08.genruntimeconfig.cache
+C:\Users\welldone\Desktop\Alireza\OOP\Example08\Example 08\obj\Debug\net7.0\ref\Example 08.dll

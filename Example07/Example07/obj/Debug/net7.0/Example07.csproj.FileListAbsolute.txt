@@ -1,0 +1,14 @@
+C:\Users\welldone\Desktop\Alireza\OOP\Example07\Example07\bin\Debug\net7.0\Example07.exe
+C:\Users\welldone\Desktop\Alireza\OOP\Example07\Example07\bin\Debug\net7.0\Example07.deps.json
+C:\Users\welldone\Desktop\Alireza\OOP\Example07\Example07\bin\Debug\net7.0\Example07.runtimeconfig.json
+C:\Users\welldone\Desktop\Alireza\OOP\Example07\Example07\bin\Debug\net7.0\Example07.dll
+C:\Users\welldone\Desktop\Alireza\OOP\Example07\Example07\bin\Debug\net7.0\Example07.pdb
+C:\Users\welldone\Desktop\Alireza\OOP\Example07\Example07\obj\Debug\net7.0\Example07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welldone\Desktop\Alireza\OOP\Example07\Example07\obj\Debug\net7.0\Example07.AssemblyInfoInputs.cache
+C:\Users\welldone\Desktop\Alireza\OOP\Example07\Example07\obj\Debug\net7.0\Example07.AssemblyInfo.cs
+C:\Users\welldone\Desktop\Alireza\OOP\Example07\Example07\obj\Debug\net7.0\Example07.csproj.CoreCompileInputs.cache
+C:\Users\welldone\Desktop\Alireza\OOP\Example07\Example07\obj\Debug\net7.0\Example07.dll
+C:\Users\welldone\Desktop\Alireza\OOP\Example07\Example07\obj\Debug\net7.0\refint\Example07.dll
+C:\Users\welldone\Desktop\Alireza\OOP\Example07\Example07\obj\Debug\net7.0\Example07.pdb
+C:\Users\welldone\Desktop\Alireza\OOP\Example07\Example07\obj\Debug\net7.0\Example07.genruntimeconfig.cache
+C:\Users\welldone\Desktop\Alireza\OOP\Example07\Example07\obj\Debug\net7.0\ref\Example07.dll

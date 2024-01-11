@@ -1,0 +1,15 @@
+E:\alireza.code\OOP\Example01\Example01\obj\Debug\net7.0\Example01.csproj.AssemblyReference.cache
+E:\alireza.code\OOP\Example01\Example01\obj\Debug\net7.0\Example01.GeneratedMSBuildEditorConfig.editorconfig
+E:\alireza.code\OOP\Example01\Example01\obj\Debug\net7.0\Example01.AssemblyInfoInputs.cache
+E:\alireza.code\OOP\Example01\Example01\obj\Debug\net7.0\Example01.AssemblyInfo.cs
+E:\alireza.code\OOP\Example01\Example01\obj\Debug\net7.0\Example01.csproj.CoreCompileInputs.cache
+E:\alireza.code\OOP\Example01\Example01\bin\Debug\net7.0\Example01.exe
+E:\alireza.code\OOP\Example01\Example01\bin\Debug\net7.0\Example01.deps.json
+E:\alireza.code\OOP\Example01\Example01\bin\Debug\net7.0\Example01.runtimeconfig.json
+E:\alireza.code\OOP\Example01\Example01\bin\Debug\net7.0\Example01.dll
+E:\alireza.code\OOP\Example01\Example01\bin\Debug\net7.0\Example01.pdb
+E:\alireza.code\OOP\Example01\Example01\obj\Debug\net7.0\Example01.dll
+E:\alireza.code\OOP\Example01\Example01\obj\Debug\net7.0\refint\Example01.dll
+E:\alireza.code\OOP\Example01\Example01\obj\Debug\net7.0\Example01.pdb
+E:\alireza.code\OOP\Example01\Example01\obj\Debug\net7.0\Example01.genruntimeconfig.cache
+E:\alireza.code\OOP\Example01\Example01\obj\Debug\net7.0\ref\Example01.dll
